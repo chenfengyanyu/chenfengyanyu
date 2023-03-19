@@ -8,3 +8,5 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chenfengyanyu/chenfengyanyu/output/github-contribution-grid-snake.svg">
 </picture>
 
+![新书支持](https://raw.githubusercontent.com/chenfengyanyu/my-web-accumulation/master/book/info.png)
+
